@@ -1,6 +1,6 @@
 package def.primeng.primeng;
 @jsweet.lang.Interface
-public abstract class TreeNode extends jsweet.lang.Object {
+public abstract class TreeNode extends def.js.Object {
     @jsweet.lang.Optional
     public String label;
     @jsweet.lang.Optional

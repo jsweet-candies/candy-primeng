@@ -1,5 +1,5 @@
 package def.primeng.primeng;
-public class UITreeNode extends jsweet.lang.Object {
+public class UITreeNode extends def.js.Object {
     public Tree tree;
     public static String ICON_CLASS;
     public TreeNode node;

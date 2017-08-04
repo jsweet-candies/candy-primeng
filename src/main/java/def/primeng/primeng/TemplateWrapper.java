@@ -3,7 +3,7 @@ package def.primeng.primeng;
 import def.angular.core.TemplateRef;
 import def.angular.core.ViewContainerRef;
 
-public class TemplateWrapper extends jsweet.lang.Object {
+public class TemplateWrapper extends def.js.Object {
     public ViewContainerRef viewContainer;
     public Object item;
     public TemplateRef<?> templateRef;

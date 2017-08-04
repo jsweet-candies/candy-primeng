@@ -1,6 +1,6 @@
 package def.primeng.primeng;
 import def.angular.router.Router;
-public class Breadcrumb extends jsweet.lang.Object {
+public class Breadcrumb extends def.js.Object {
     public Router router;
     public MenuItem[] model;
     public Object style;

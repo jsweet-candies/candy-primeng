@@ -1,4 +1,4 @@
 package def.primeng.primeng;
-public class CodeHighlighterModule extends jsweet.lang.Object {
+public class CodeHighlighterModule extends def.js.Object {
 }
 

@@ -1,4 +1,4 @@
 package def.primeng.primeng;
-public class DataGridModule extends jsweet.lang.Object {
+public class DataGridModule extends def.js.Object {
 }
 

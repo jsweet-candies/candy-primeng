@@ -1,4 +1,4 @@
 package def.primeng.primeng;
-public class EditorModule extends jsweet.lang.Object {
+public class EditorModule extends def.js.Object {
 }
 

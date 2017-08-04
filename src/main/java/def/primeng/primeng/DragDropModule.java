@@ -1,4 +1,4 @@
 package def.primeng.primeng;
-public class DragDropModule extends jsweet.lang.Object {
+public class DragDropModule extends def.js.Object {
 }
 

@@ -1,4 +1,4 @@
 package def.primeng.primeng;
-public class SelectButtonModule extends jsweet.lang.Object {
+public class SelectButtonModule extends def.js.Object {
 }
 

@@ -1,5 +1,5 @@
 package def.primeng.primeng;
-public class Messages extends jsweet.lang.Object {
+public class Messages extends def.js.Object {
     public Message[] value;
     public Boolean closable;
     native public Boolean hasMessages();

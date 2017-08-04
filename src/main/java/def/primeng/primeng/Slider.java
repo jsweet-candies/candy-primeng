@@ -2,8 +2,8 @@ package def.primeng.primeng;
 import def.angular.core.ElementRef;
 import def.angular.core.EventEmitter;
 import def.angular.core.SimpleChange;
-import jsweet.lang.Function;
-public class Slider extends jsweet.lang.Object {
+import def.js.Function;
+public class Slider extends def.js.Object {
     public ElementRef el;
     public Boolean animate;
     public Boolean disabled;
@@ -29,7 +29,7 @@ public class Slider extends jsweet.lang.Object {
     native public void ngOnDestroy();
     /** This is an automatically generated object type (see the source definition). */
     @jsweet.lang.ObjectType
-    public static class Changes extends jsweet.lang.Object {
+    public static class Changes extends def.js.Object {
         native public SimpleChange $get(String key);
     }
     protected Slider(){}

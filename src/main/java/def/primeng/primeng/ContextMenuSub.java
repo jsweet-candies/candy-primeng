@@ -1,7 +1,7 @@
 package def.primeng.primeng;
 import def.angular.router.Router;
 import def.primeng.components.dom.domhandler.DomHandler;
-public class ContextMenuSub extends jsweet.lang.Object {
+public class ContextMenuSub extends def.js.Object {
     public DomHandler domHandler;
     public Router router;
     public MenuItem item;

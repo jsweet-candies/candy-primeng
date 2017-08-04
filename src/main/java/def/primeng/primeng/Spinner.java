@@ -2,8 +2,8 @@ package def.primeng.primeng;
 import def.angular.core.ElementRef;
 import def.angular.core.EventEmitter;
 import def.primeng.components.dom.domhandler.DomHandler;
-import jsweet.lang.Function;
-public class Spinner extends jsweet.lang.Object {
+import def.js.Function;
+public class Spinner extends def.js.Object {
     public ElementRef el;
     public DomHandler domHandler;
     public EventEmitter<?> onChange;

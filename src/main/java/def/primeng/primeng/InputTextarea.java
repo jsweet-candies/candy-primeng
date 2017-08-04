@@ -2,7 +2,7 @@ package def.primeng.primeng;
 
 import def.angular.core.ElementRef;
 
-public class InputTextarea extends jsweet.lang.Object {
+public class InputTextarea extends def.js.Object {
     public ElementRef el;
     public Boolean autoResize;
     public double rows;

@@ -1,14 +1,14 @@
 package def.primeng.primeng;
 
-import javax.swing.Renderer;
-
 import def.angular.core.ElementRef;
 import def.angular.core.EventEmitter;
 import def.angular.core.IterableDiffers;
+import def.angular.core.Renderer;
 import def.angular.core.TemplateRef;
+import def.js.Function;
 import def.primeng.components.dom.domhandler.DomHandler;
-import jsweet.lang.Function;
-public class AutoComplete extends jsweet.lang.Object {
+
+public class AutoComplete extends def.js.Object {
     public ElementRef el;
     public DomHandler domHandler;
     public Renderer renderer;

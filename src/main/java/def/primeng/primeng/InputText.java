@@ -2,7 +2,7 @@ package def.primeng.primeng;
 
 import def.angular.core.ElementRef;
 
-public class InputText extends jsweet.lang.Object {
+public class InputText extends def.js.Object {
     public ElementRef el;
     public Boolean hover;
     public Boolean focus;

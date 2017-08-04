@@ -1,4 +1,4 @@
 package def.primeng.primeng;
-public class TooltipModule extends jsweet.lang.Object {
+public class TooltipModule extends def.js.Object {
 }
 

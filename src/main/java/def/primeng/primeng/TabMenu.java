@@ -1,6 +1,6 @@
 package def.primeng.primeng;
 import def.angular.router.Router;
-public class TabMenu extends jsweet.lang.Object {
+public class TabMenu extends def.js.Object {
     public Router router;
     public MenuItem[] model;
     public MenuItem activeItem;

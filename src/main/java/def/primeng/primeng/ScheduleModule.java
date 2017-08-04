@@ -1,4 +1,4 @@
 package def.primeng.primeng;
-public class ScheduleModule extends jsweet.lang.Object {
+public class ScheduleModule extends def.js.Object {
 }
 

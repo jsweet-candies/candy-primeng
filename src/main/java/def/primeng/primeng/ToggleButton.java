@@ -1,7 +1,7 @@
 package def.primeng.primeng;
 import def.angular.core.EventEmitter;
-import jsweet.lang.Function;
-public class ToggleButton extends jsweet.lang.Object {
+import def.js.Function;
+public class ToggleButton extends def.js.Object {
     public String onLabel;
     public String offLabel;
     public String onIcon;

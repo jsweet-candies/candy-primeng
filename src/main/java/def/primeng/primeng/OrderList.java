@@ -3,7 +3,7 @@ import def.angular.core.ElementRef;
 import def.angular.core.EventEmitter;
 import def.angular.core.TemplateRef;
 import def.primeng.components.dom.domhandler.DomHandler;
-public class OrderList extends jsweet.lang.Object {
+public class OrderList extends def.js.Object {
     public ElementRef el;
     public DomHandler domHandler;
     public Object[] value;

@@ -1,4 +1,4 @@
 package def.primeng.primeng;
-public class MenubarModule extends jsweet.lang.Object {
+public class MenubarModule extends def.js.Object {
 }
 

@@ -2,7 +2,7 @@ package def.primeng.primeng;
 import def.angular.core.ElementRef;
 import def.angular.core.EventEmitter;
 import def.angular.core.QueryList;
-public class TabView extends jsweet.lang.Object {
+public class TabView extends def.js.Object {
     public ElementRef el;
     public String orientation;
     public Object style;

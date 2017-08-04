@@ -2,7 +2,7 @@ package def.primeng.primeng;
 import def.angular.core.ElementRef;
 import def.angular.core.Renderer;
 import def.primeng.components.dom.domhandler.DomHandler;
-public class SlideMenu extends jsweet.lang.Object {
+public class SlideMenu extends def.js.Object {
     public ElementRef el;
     public DomHandler domHandler;
     public Renderer renderer;

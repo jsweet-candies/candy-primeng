@@ -1,4 +1,4 @@
 package def.primeng.primeng;
-public class BreadcrumbModule extends jsweet.lang.Object {
+public class BreadcrumbModule extends def.js.Object {
 }
 

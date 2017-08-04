@@ -2,8 +2,8 @@ package def.primeng.primeng;
 import def.angular.core.ElementRef;
 import def.angular.core.EventEmitter;
 import def.angular.core.IterableDiffers;
-import jsweet.lang.Function;
-public class Schedule extends jsweet.lang.Object {
+import def.js.Function;
+public class Schedule extends def.js.Object {
     public ElementRef el;
     public Object[] events;
     public Object header;

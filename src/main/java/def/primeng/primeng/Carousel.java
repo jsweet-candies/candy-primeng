@@ -5,7 +5,7 @@ import def.angular.core.IterableDiffers;
 import def.angular.core.Renderer;
 import def.angular.core.TemplateRef;
 import def.primeng.components.dom.domhandler.DomHandler;
-public class Carousel extends jsweet.lang.Object {
+public class Carousel extends def.js.Object {
     public ElementRef el;
     public DomHandler domHandler;
     public Renderer renderer;

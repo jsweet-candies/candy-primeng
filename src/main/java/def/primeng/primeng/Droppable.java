@@ -2,7 +2,7 @@ package def.primeng.primeng;
 import def.angular.core.ElementRef;
 import def.angular.core.EventEmitter;
 import def.primeng.components.dom.domhandler.DomHandler;
-public class Droppable extends jsweet.lang.Object {
+public class Droppable extends def.js.Object {
     public ElementRef el;
     public DomHandler domHandler;
     public String scope;

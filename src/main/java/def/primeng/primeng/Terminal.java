@@ -2,7 +2,7 @@ package def.primeng.primeng;
 import def.angular.core.ElementRef;
 import def.angular.core.EventEmitter;
 import def.primeng.components.dom.domhandler.DomHandler;
-public class Terminal extends jsweet.lang.Object {
+public class Terminal extends def.js.Object {
     public ElementRef el;
     public DomHandler domHandler;
     public String welcomeMessage;

@@ -1,6 +1,6 @@
 package def.primeng.primeng;
 import def.angular.core.EventEmitter;
-public class Fieldset extends jsweet.lang.Object {
+public class Fieldset extends def.js.Object {
     public String legend;
     public Boolean toggleable;
     public Boolean collapsed;

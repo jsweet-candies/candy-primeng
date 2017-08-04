@@ -1,4 +1,4 @@
 package def.primeng.primeng;
-public class RadioButtonModule extends jsweet.lang.Object {
+public class RadioButtonModule extends def.js.Object {
 }
 

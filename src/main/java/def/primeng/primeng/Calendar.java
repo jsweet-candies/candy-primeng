@@ -3,8 +3,8 @@ import def.angular.core.ElementRef;
 import def.angular.core.EventEmitter;
 import def.angular.core.NgZone;
 import def.angular.core.SimpleChange;
-import jsweet.lang.Function;
-public class Calendar extends jsweet.lang.Object {
+import def.js.Function;
+public class Calendar extends def.js.Object {
     public ElementRef el;
     public NgZone zone;
     public Boolean readonlyInput;
@@ -71,7 +71,7 @@ public class Calendar extends jsweet.lang.Object {
     native public void onButtonClick(Object event, Object input);
     /** This is an automatically generated object type (see the source definition). */
     @jsweet.lang.ObjectType
-    public static class Changes extends jsweet.lang.Object {
+    public static class Changes extends def.js.Object {
         native public SimpleChange $get(String key);
     }
     protected Calendar(){}

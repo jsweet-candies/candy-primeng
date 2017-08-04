@@ -3,8 +3,8 @@ import def.angular.core.ElementRef;
 import def.angular.core.EventEmitter;
 import def.angular.core.TemplateRef;
 import def.primeng.components.dom.domhandler.DomHandler;
-import jsweet.lang.Function;
-public class Listbox extends jsweet.lang.Object {
+import def.js.Function;
+public class Listbox extends def.js.Object {
     public ElementRef el;
     public DomHandler domHandler;
     public SelectItem[] options;

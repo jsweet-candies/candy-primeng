@@ -7,7 +7,7 @@ import def.angular.core.QueryList;
 import def.angular.core.Renderer;
 import def.angular.core.TemplateRef;
 import def.primeng.components.dom.domhandler.DomHandler;
-public class DataTable extends jsweet.lang.Object {
+public class DataTable extends def.js.Object {
     public ElementRef el;
     public DomHandler domHandler;
     public Renderer renderer;
@@ -162,12 +162,12 @@ public class DataTable extends jsweet.lang.Object {
     native public void ngOnDestroy();
     /** This is an automatically generated object type (see the source definition). */
     @jsweet.lang.ObjectType
-    public static class Filters extends jsweet.lang.Object {
+    public static class Filters extends def.js.Object {
         native public FilterMetadata $get(String s);
     }
     /** This is an automatically generated object type (see the source definition). */
     @jsweet.lang.ObjectType
-    public static class FilterConstraints extends jsweet.lang.Object {
+    public static class FilterConstraints extends def.js.Object {
         native public Boolean startsWith(Object value, Object filter);
         native public Boolean contains(Object value, Object filter);
         native public Boolean endsWith(Object value, Object filter);

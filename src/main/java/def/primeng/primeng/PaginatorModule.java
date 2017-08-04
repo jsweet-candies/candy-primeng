@@ -1,4 +1,4 @@
 package def.primeng.primeng;
-public class PaginatorModule extends jsweet.lang.Object {
+public class PaginatorModule extends def.js.Object {
 }
 

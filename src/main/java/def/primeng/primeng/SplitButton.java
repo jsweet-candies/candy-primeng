@@ -4,7 +4,7 @@ import def.angular.core.EventEmitter;
 import def.angular.core.Renderer;
 import def.angular.router.Router;
 import def.primeng.components.dom.domhandler.DomHandler;
-public class SplitButton extends jsweet.lang.Object {
+public class SplitButton extends def.js.Object {
     public ElementRef el;
     public DomHandler domHandler;
     public Renderer renderer;

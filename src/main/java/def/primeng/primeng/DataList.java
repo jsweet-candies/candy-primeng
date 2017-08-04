@@ -3,7 +3,7 @@ import def.angular.core.ElementRef;
 import def.angular.core.EventEmitter;
 import def.angular.core.IterableDiffers;
 import def.angular.core.TemplateRef;
-public class DataList extends jsweet.lang.Object {
+public class DataList extends def.js.Object {
     public ElementRef el;
     public Object[] value;
     public Boolean paginator;

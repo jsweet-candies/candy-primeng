@@ -1,7 +1,7 @@
 package def.primeng.primeng;
 import def.angular.core.EventEmitter;
-import jsweet.lang.Function;
-public class RadioButton extends jsweet.lang.Object {
+import def.js.Function;
+public class RadioButton extends def.js.Object {
     public Object value;
     public String name;
     public Boolean disabled;

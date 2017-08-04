@@ -3,7 +3,7 @@ import def.angular.core.ElementRef;
 import def.angular.core.EventEmitter;
 import def.angular.core.Renderer;
 import def.primeng.components.dom.domhandler.DomHandler;
-public class OverlayPanel extends jsweet.lang.Object {
+public class OverlayPanel extends def.js.Object {
     public ElementRef el;
     public DomHandler domHandler;
     public Renderer renderer;

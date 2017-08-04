@@ -2,7 +2,7 @@ package def.primeng.primeng;
 import def.angular.core.ElementRef;
 import def.angular.core.EventEmitter;
 import def.angular.core.IterableDiffers;
-public class UIChart extends jsweet.lang.Object {
+public class UIChart extends def.js.Object {
     public ElementRef el;
     public String type;
     public Object data;

@@ -4,8 +4,8 @@ import def.angular.core.EventEmitter;
 import def.angular.core.IterableDiffers;
 import def.angular.core.Renderer;
 import def.primeng.components.dom.domhandler.DomHandler;
-import jsweet.lang.Function;
-public class MultiSelect extends jsweet.lang.Object {
+import def.js.Function;
+public class MultiSelect extends def.js.Object {
     public ElementRef el;
     public DomHandler domHandler;
     public Renderer renderer;

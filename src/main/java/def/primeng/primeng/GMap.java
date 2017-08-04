@@ -4,7 +4,7 @@ import def.angular.core.ElementRef;
 import def.angular.core.EventEmitter;
 import def.angular.core.IterableDiffers;
 import def.angular.core.NgZone;
-public class GMap extends jsweet.lang.Object {
+public class GMap extends def.js.Object {
     public ElementRef el;
     public ChangeDetectorRef cd;
     public NgZone zone;

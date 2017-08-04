@@ -1,4 +1,4 @@
 package def.primeng.primeng;
-public class PasswordModule extends jsweet.lang.Object {
+public class PasswordModule extends def.js.Object {
 }
 

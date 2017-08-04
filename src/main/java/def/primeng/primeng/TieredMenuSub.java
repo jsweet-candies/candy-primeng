@@ -2,7 +2,7 @@ package def.primeng.primeng;
 import def.angular.router.Router;
 import def.angular.common.Location;
 import def.primeng.components.dom.domhandler.DomHandler;
-public class TieredMenuSub extends jsweet.lang.Object {
+public class TieredMenuSub extends def.js.Object {
     public DomHandler domHandler;
     public Router router;
     public Location location;

@@ -1,6 +1,6 @@
 package def.primeng.primeng;
 import def.angular.core.EventEmitter;
-public class Paginator extends jsweet.lang.Object {
+public class Paginator extends def.js.Object {
     public double rows;
     public double pageLinkSize;
     public EventEmitter<?> onPageChange;

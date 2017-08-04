@@ -1,4 +1,4 @@
 package def.primeng.primeng;
-public class TabViewModule extends jsweet.lang.Object {
+public class TabViewModule extends def.js.Object {
 }
 

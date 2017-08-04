@@ -1,4 +1,4 @@
 package def.primeng.primeng;
-public class InputSwitchModule extends jsweet.lang.Object {
+public class InputSwitchModule extends def.js.Object {
 }
 

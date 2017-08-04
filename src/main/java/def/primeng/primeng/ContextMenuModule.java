@@ -1,4 +1,4 @@
 package def.primeng.primeng;
-public class ContextMenuModule extends jsweet.lang.Object {
+public class ContextMenuModule extends def.js.Object {
 }
 

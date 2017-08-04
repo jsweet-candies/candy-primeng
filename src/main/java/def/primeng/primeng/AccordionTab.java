@@ -1,5 +1,5 @@
 package def.primeng.primeng;
-public class AccordionTab extends jsweet.lang.Object {
+public class AccordionTab extends def.js.Object {
     public Accordion accordion;
     public String header;
     public Boolean selected;

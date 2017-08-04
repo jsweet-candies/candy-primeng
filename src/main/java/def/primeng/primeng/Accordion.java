@@ -1,7 +1,7 @@
 package def.primeng.primeng;
 import def.angular.core.ElementRef;
 import def.angular.core.EventEmitter;
-public class Accordion extends jsweet.lang.Object {
+public class Accordion extends def.js.Object {
     public ElementRef el;
     public Boolean multiple;
     public EventEmitter<?> onClose;

@@ -2,7 +2,7 @@ package def.primeng.primeng;
 import def.angular.core.EventEmitter;
 import def.angular.core.QueryList;
 import def.angular.core.TemplateRef;
-public class Column extends jsweet.lang.Object {
+public class Column extends def.js.Object {
     public String field;
     public String header;
     public String footer;

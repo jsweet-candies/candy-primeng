@@ -1,6 +1,6 @@
 package def.primeng.primeng;
 import def.angular.router.Router;
-public class SlideMenuSub extends jsweet.lang.Object {
+public class SlideMenuSub extends def.js.Object {
     public SlideMenu slideMenu;
     public Router router;
     public MenuItem item;

@@ -3,8 +3,8 @@ import def.angular.core.EventEmitter;
 import def.angular.core.QueryList;
 import def.angular.core.TemplateRef;
 import def.angular.platform_browser.DomSanitizer;
-import jsweet.dom.File;
-public class FileUpload extends jsweet.lang.Object {
+import def.dom.File;
+public class FileUpload extends def.js.Object {
     public String name;
     public String url;
     public Boolean multiple;

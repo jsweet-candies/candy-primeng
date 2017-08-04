@@ -2,7 +2,7 @@ package def.primeng.primeng;
 import def.angular.core.ElementRef;
 import def.angular.core.TemplateRef;
 import def.primeng.components.dom.domhandler.DomHandler;
-public class PickList extends jsweet.lang.Object {
+public class PickList extends def.js.Object {
     public ElementRef el;
     public DomHandler domHandler;
     public Object[] source;

@@ -1,6 +1,6 @@
 package def.primeng.primeng;
 import def.angular.core.EventEmitter;
-public class Panel extends jsweet.lang.Object {
+public class Panel extends def.js.Object {
     public Boolean toggleable;
     public String header;
     public Boolean collapsed;

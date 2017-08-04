@@ -5,7 +5,7 @@ import def.angular.core.IterableDiffers;
 import def.angular.core.Renderer;
 import def.angular.core.TemplateRef;
 import def.primeng.components.dom.domhandler.DomHandler;
-public class DataScroller extends jsweet.lang.Object {
+public class DataScroller extends def.js.Object {
     public ElementRef el;
     public Renderer renderer;
     public DomHandler domHandler;

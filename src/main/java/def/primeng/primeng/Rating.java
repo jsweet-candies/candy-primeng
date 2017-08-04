@@ -1,7 +1,7 @@
 package def.primeng.primeng;
 import def.angular.core.EventEmitter;
-import jsweet.lang.Function;
-public class Rating extends jsweet.lang.Object {
+import def.js.Function;
+public class Rating extends def.js.Object {
     public Boolean disabled;
     public Boolean readonly;
     public double stars;

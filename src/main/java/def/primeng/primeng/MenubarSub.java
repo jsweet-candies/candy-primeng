@@ -1,7 +1,7 @@
 package def.primeng.primeng;
 import def.angular.router.Router;
 import def.primeng.components.dom.domhandler.DomHandler;
-public class MenubarSub extends jsweet.lang.Object {
+public class MenubarSub extends def.js.Object {
     public DomHandler domHandler;
     public Router router;
     public MenuItem item;

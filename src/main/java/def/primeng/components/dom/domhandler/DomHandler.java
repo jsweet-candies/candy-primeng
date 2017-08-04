@@ -1,5 +1,5 @@
 package def.primeng.components.dom.domhandler;
-public class DomHandler extends jsweet.lang.Object {
+public class DomHandler extends def.js.Object {
     public static double zindex;
     native public void addClass(Object element, String className);
     native public void addMultipleClasses(Object element, String className);

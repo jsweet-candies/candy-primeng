@@ -1,7 +1,7 @@
 package def.primeng.primeng;
 import def.angular.core.EventEmitter;
-import jsweet.lang.Function;
-public class SelectButton extends jsweet.lang.Object {
+import def.js.Function;
+public class SelectButton extends def.js.Object {
     public SelectItem[] options;
     public double tabindex;
     public Boolean multiple;

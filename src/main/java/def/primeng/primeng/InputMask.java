@@ -1,8 +1,8 @@
 package def.primeng.primeng;
 import def.angular.core.ElementRef;
 import def.angular.core.EventEmitter;
-import jsweet.lang.Function;
-public class InputMask extends jsweet.lang.Object {
+import def.js.Function;
+public class InputMask extends def.js.Object {
     public ElementRef el;
     public String mask;
     public String style;

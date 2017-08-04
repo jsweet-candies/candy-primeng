@@ -1,5 +1,5 @@
 package def.primeng.primeng;
-public class UITreeRow extends jsweet.lang.Object {
+public class UITreeRow extends def.js.Object {
     public TreeTable treeTable;
     public TreeNode node;
     public double level;

@@ -1,4 +1,4 @@
 package def.primeng.primeng;
-public class AccordionModule extends jsweet.lang.Object {
+public class AccordionModule extends def.js.Object {
 }
 

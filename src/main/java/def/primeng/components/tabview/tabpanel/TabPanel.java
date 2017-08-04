@@ -1,5 +1,5 @@
 package def.primeng.components.tabview.tabpanel;
-public class TabPanel extends jsweet.lang.Object {
+public class TabPanel extends def.js.Object {
     public String header;
     public Boolean selected;
     public Boolean disabled;

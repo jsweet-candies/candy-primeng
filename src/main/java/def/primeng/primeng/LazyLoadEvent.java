@@ -1,6 +1,6 @@
 package def.primeng.primeng;
 @jsweet.lang.Interface
-public abstract class LazyLoadEvent extends jsweet.lang.Object {
+public abstract class LazyLoadEvent extends def.js.Object {
     @jsweet.lang.Optional
     public double first;
     @jsweet.lang.Optional
@@ -15,7 +15,7 @@ public abstract class LazyLoadEvent extends jsweet.lang.Object {
     public Filters filters;
     /** This is an automatically generated object type (see the source definition). */
     @jsweet.lang.ObjectType
-    public static class Filters extends jsweet.lang.Object {
+    public static class Filters extends def.js.Object {
         native public FilterMetadata $get(String s);
     }
 }

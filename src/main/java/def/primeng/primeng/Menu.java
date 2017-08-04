@@ -3,7 +3,7 @@ import def.angular.core.ElementRef;
 import def.angular.core.Renderer;
 import def.angular.router.Router;
 import def.primeng.components.dom.domhandler.DomHandler;
-public class Menu extends jsweet.lang.Object {
+public class Menu extends def.js.Object {
     public ElementRef el;
     public DomHandler domHandler;
     public Renderer renderer;

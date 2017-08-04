@@ -1,4 +1,4 @@
 package def.primeng.primeng;
-public class DataListModule extends jsweet.lang.Object {
+public class DataListModule extends def.js.Object {
 }
 

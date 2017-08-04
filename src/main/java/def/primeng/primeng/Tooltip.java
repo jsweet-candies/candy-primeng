@@ -1,7 +1,7 @@
 package def.primeng.primeng;
 import def.angular.core.ElementRef;
 import def.primeng.components.dom.domhandler.DomHandler;
-public class Tooltip extends jsweet.lang.Object {
+public class Tooltip extends def.js.Object {
     public ElementRef el;
     public DomHandler domHandler;
     public String text;

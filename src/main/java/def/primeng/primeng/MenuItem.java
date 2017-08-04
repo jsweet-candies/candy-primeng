@@ -3,7 +3,7 @@ package def.primeng.primeng;
 import def.angular.core.EventEmitter;
 
 @jsweet.lang.Interface
-public abstract class MenuItem extends jsweet.lang.Object {
+public abstract class MenuItem extends def.js.Object {
     @jsweet.lang.Optional
     public String label;
     @jsweet.lang.Optional

@@ -3,7 +3,7 @@ import def.angular.core.ElementRef;
 import def.angular.core.EventEmitter;
 import def.angular.core.IterableDiffers;
 import def.primeng.components.dom.domhandler.DomHandler;
-public class Galleria extends jsweet.lang.Object {
+public class Galleria extends def.js.Object {
     public ElementRef el;
     public DomHandler domHandler;
     public Object[] images;

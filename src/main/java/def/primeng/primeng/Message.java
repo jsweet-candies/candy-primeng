@@ -1,6 +1,6 @@
 package def.primeng.primeng;
 @jsweet.lang.Interface
-public abstract class Message extends jsweet.lang.Object {
+public abstract class Message extends def.js.Object {
     @jsweet.lang.Optional
     public String severity;
     @jsweet.lang.Optional

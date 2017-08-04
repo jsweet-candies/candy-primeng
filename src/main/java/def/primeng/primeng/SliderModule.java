@@ -1,4 +1,4 @@
 package def.primeng.primeng;
-public class SliderModule extends jsweet.lang.Object {
+public class SliderModule extends def.js.Object {
 }
 

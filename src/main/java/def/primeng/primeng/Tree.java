@@ -1,7 +1,7 @@
 package def.primeng.primeng;
 import def.angular.core.EventEmitter;
 import def.angular.core.TemplateRef;
-public class Tree extends jsweet.lang.Object {
+public class Tree extends def.js.Object {
     public TreeNode[] value;
     public String selectionMode;
     public Object selection;

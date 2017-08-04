@@ -1,4 +1,4 @@
 package def.primeng.primeng;
-public class Header extends jsweet.lang.Object {
+public class Header extends def.js.Object {
 }
 
